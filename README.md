@@ -20,7 +20,7 @@
 <h3>:link: Connection</h3>
 <h5>:email: amohamadi17@gmail.com</h5>
 
-<a style="margin : 0 1rem" href="https://www.instagram.com/ali__mh17"><img width="20px" src="./images/instagram.png" alt="instagram icon" /></a>
+<a href="https://www.instagram.com/ali__mh17"><img width="20px" src="./images/instagram.png" alt="instagram icon" /></a>
 <a href="tg://alimh174"><img width="20px" src="./images/telegram.png" alt="telegram icon" /></a>
 <a href="https://www.linkedin.com/in/ali-mohamadi-565491208/"><img width="20px" src="./images/linkedin.png" alt="linkedin icon" /></a>
 
