@@ -1,5 +1,2 @@
-#Alimh17
-<p align="center">
-<img width:"100%" src=”https://user-images.githubusercontent.com/19290716/168420044-b922eaec-c6ef-4bba-b097-8071a005f338.jpg” alt=”my banner”>
-</p>
 
+![tudor-baciu-vc3iVL_znJ8-unsplash](https://user-images.githubusercontent.com/19290716/168420139-86eecf57-5df9-448b-b751-18963db82a0c.jpg)
