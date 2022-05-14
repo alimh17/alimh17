@@ -21,7 +21,7 @@
 <h4>:email: amohamadi17@gmail.com</h4>
 <h4>🔗: https://telegram.org/alimh174</h4>
 
-<a href="https://www.instagram.com/alimh17"><img width="20px" src="https://www.flaticon.com/free-icons/instagram" alt="instagram" /></a>
+<a href="https://www.instagram.com/ali__mh17"><img width="20px" src="https://www.flaticon.com/free-icons/instagram" alt="instagram" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimh17&show_icons=true&theme=radical)
 
