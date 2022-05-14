@@ -20,6 +20,7 @@
 <h3>:link: Connection</h3>
 <h4>:email: amohamadi17@gmail.com</h4>
 <h4>🔗: https://telegram.org/alimh174</h4>
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/alimh17/alimh17/master/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimh17&show_icons=true&theme=radical)
 
