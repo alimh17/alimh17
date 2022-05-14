@@ -20,3 +20,7 @@
 <h3>:link: Connection</h3>
 <h4>:email: amohamadi17@gmail.com</h4>
 <h4>🔗: https://telegram.org/alimh174</h4>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimh17&show_icons=true&theme=radical)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alimh17&repo=messanger)](https://github.com/alimh17/messanger)
