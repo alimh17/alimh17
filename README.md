@@ -21,10 +21,10 @@
 <h4>:email: amohamadi17@gmail.com</h4>
 <h4>🔗: https://telegram.org/alimh174</h4>
 
-<a href="https://www.instagram.com/ali__mh17"><img width="20px" src="./images/instagram.png" alt="instagram" /></a>
-<a href="https://www.instagram.com/ali__mh17"><img width="20px" src="./images/telegram.png" alt="instagram" /></a>
-<a href="https://www.instagram.com/ali__mh17"><img width="20px" src="./images/linkedin.png" alt="instagram" /></a>
-<a href="https://www.instagram.com/ali__mh17"><img width="20px" src="./images/gmail.png" alt="instagram" /></a>
+<a href="https://www.instagram.com/ali__mh17"><img width="20px" src="./images/instagram.png" alt="instagram icon" /></a>
+<a href="tg://alimh174"><img width="20px" src="./images/telegram.png" alt="telegram icon" /></a>
+<a href="https://www.instagram.com/ali__mh17"><img width="20px" src="./images/linkedin.png" alt="linkedin icon" /></a>
+<a href="https://www.instagram.com/ali__mh17"><img width="20px" src="./images/gmail.png" alt="gmail icon" /></a>
 
 
 
