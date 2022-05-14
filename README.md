@@ -18,11 +18,11 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![CodePen](https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white)
 
 <h3>:link: Connection</h3>
+<h5>:email: amohamadi17@gmail.com</h5>
 
 <a href="https://www.instagram.com/ali__mh17"><img width="20px" src="./images/instagram.png" alt="instagram icon" /></a>
 <a href="tg://alimh174"><img width="20px" src="./images/telegram.png" alt="telegram icon" /></a>
 <a href="https://www.linkedin.com/in/ali-mohamadi-565491208/"><img width="20px" src="./images/linkedin.png" alt="linkedin icon" /></a>
-<a href="www.amohamadi17@gamil.com"><img width="20px" src="./images/gmail.png" alt="gmail icon" /></a>
 
 
 
