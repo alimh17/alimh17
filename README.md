@@ -4,8 +4,7 @@
  <h3>I'm a Frontend Developer  :man_technologist:</h3>
 </div>
 
-# Ye alamate ! ghable [] Ezafe kon 😉
-[tudor-baciu-vc3iVL_znJ8-unsplash](https://user-images.githubusercontent.com/19290716/168420139-86eecf57-5df9-448b-b751-18963db82a0c.jpg)
+![tudor-baciu-vc3iVL_znJ8-unsplash](https://user-images.githubusercontent.com/19290716/168420139-86eecf57-5df9-448b-b751-18963db82a0c.jpg)
 
 
  <h2>:briefcase: Technical Skills</h1> 
